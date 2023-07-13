@@ -1,22 +1,13 @@
 #include <stdio.h>
 /**
-* main(void) - describe
-*
-* this is a success
-*
-* main - describe
-*
-* this is a function
-*
-* return a 0
-*
-* this is a sucsses
-*
+ * main - Entry point
+ *
+ *Description: A C program that prints with put function
+ *
+ * Return: - Always 0 (Success)
 */
 int main(void)
 {
-	/* this is a descr */
 	puts("\"Programming is like building a multilingual puzzle");
-	return (0); /* this is a description */
-	/* this is a description */
+	return (0);
 }
