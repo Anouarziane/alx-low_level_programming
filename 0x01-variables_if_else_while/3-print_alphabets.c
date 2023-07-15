@@ -16,7 +16,7 @@ int main(void)
 	}
 	while (m <= 90)
 	{
-		putchat(m);
+		putchar(m);
 		m++;
 	}
 	putchar('\n');

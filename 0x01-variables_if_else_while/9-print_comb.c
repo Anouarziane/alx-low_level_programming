@@ -15,9 +15,9 @@ int main(void)
 		{
 			continue;
 		}
-		putchart(",");
-		putchart(" ");
+		putchar(",");
+		putchar(" ");
 	}
-	putchart('\n');
+	putchar('\n');
 	return (0);
 }
