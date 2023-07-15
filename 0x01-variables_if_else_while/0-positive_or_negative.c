@@ -2,13 +2,13 @@
 #include <time.h>
 #include <stdio.h>
 /**
-  * main -  entry point to obtain number
+  *main - Entry point to obtain number
   *
-  * Description : 'check for number if it is positive or negative'
+  *Description : -  'check for number if it is positive or negative'
   *
-  * Return : - Always  0 (success) or non-zero on failure
+  *Return: Always  0 (success) or non-zero on failure
   *
-*/
+  */
 int main(void)
 {
 	int n;
